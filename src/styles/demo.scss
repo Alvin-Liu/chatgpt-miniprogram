@@ -1,0 +1,15 @@
+page {
+  --primary-color:#ffd001;
+	--primary-lite-color:#ffeb67;
+
+  background: var(--vin-help-color, #f5f5f5);
+}
+
+.demo {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  min-height: 100vh;
+  padding: 15px 17px 15px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}

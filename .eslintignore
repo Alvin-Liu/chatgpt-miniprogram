@@ -1,0 +1,4 @@
+dist
+locale
+font
+**/__tests__/*.ts
