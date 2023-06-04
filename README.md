@@ -29,3 +29,9 @@ $ pnpm build
 ## 其他文档
 
 - [vin-ui](https://vingogo.cn/docs/index.html)
+
+## 联系
+
+有关 chatgpt-miniprogram 的问题，欢迎添加微信交流，加微信请备注：gpt
+
+![wechat](https://cdn.vingogo.cn/wechat.jpg)
